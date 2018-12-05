@@ -1,19 +1,25 @@
 ---
-templateKey: 'about-page'
-path: /about
+templateKey: about-page
 title: About our values
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### We are an unincorporated not-for-profit organization dedicated to promote and support the profession of information security.  We operate purely on a volunteer basis.  We do not charge membership or event fees, and operate without financial sponsorship as much as we can.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### 
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Vision – why are we here
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### To promote and support the profession of information security, and be recognized as the premier volunteer security organization for promoting the profession of information security in Vancouver and the province.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### 
+
+###  
+
+### 
+
+### Mission – what we do
+
+### To hold events that support and promote information security professionals.  To serve information security professionals by facilitating the exchange of security information and knowledge consistent with the (ISC)² values and principles through the process of continuous improvement in the following disciplines:  Administration Security, Personnel Security, Physical Security, Network Security, Application Software Security, Data Security, Operations Security, Business Continuity Planning, Mandatory Compliance and Investigations.
+
+### 
+
+### (That’s the formal list.  We’ve also covered security architecture, security awareness, information security theory, process security, practical cryptography, malware management, and quality assurance.)
